@@ -13,6 +13,7 @@ $$
 $$
 
 である． 
+
 $$
 \begin{aligned}
 b_n 
@@ -21,7 +22,9 @@ b_n
 &=\, d_n+e_n%
 \end{aligned}
 $$
- とおく． 
+
+ とおく．
+ 
  $$
 \begin{aligned}
 d_n 
@@ -40,6 +43,7 @@ $$
 $$
 
 より 
+
 $$
 \begin{aligned}
 \lim_{n \to \infty}e_n=0 \end{aligned}
